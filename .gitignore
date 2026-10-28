@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# 数据与产物
+data/
+output/
+out_csv/
+models/
+logs/
+submit/
+*.pkl
+*.pt
+*.bin
+*.parquet
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+
+# 密钥
+.env
+*.key
+secrets.*
